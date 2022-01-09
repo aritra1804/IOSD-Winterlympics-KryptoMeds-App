@@ -1,6 +1,8 @@
-# medical_app
+# KryptoMeds_App
 
-A new Flutter project.
+This project is presented to you by team Gucci Coders in IOSD-Winterlympics 2022 Hackathon.
+This app is created in flutter framework by the team member of Gucci Coders.
+The idea of this app is to spread awarness about personal health and also decentralize medical records. 
 
 ## Getting Started
 
