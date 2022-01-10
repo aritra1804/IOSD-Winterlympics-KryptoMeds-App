@@ -1,4 +1,8 @@
-# KryptoMeds_App
+<h1> KryptoMeds_App </h1> 
+<div align="center">
+   
+  <img alt="" src="assets/images/final logo.png" height="170 x    "  />
+</div>
 
 This project is presented to you by team Gucci Coders in IOSD-Winterlympics 2022 Hackathon.
 This app is created in flutter framework by the team member of Gucci Coders.
